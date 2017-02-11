@@ -1,4 +1,4 @@
-# Illumination
+# Iluminacion-Maya. Computacion grafica.
 
 Basicamente el proyecto consiste en trabajar con los tipos de luces que se aplican a una escena:
 
